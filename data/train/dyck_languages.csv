@@ -1,0 +1,251 @@
+input,target
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ [",] ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < [ [",] ] >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { < { { [ ] } } { < [ { { < > } } [ ( ) ( ) ] [ [ [ [ ( { < ( < ( [ ] ) > ) > } ) ] ] ] ] ] ( ) ( [ ] { } ) > } > [ { ( ( ) ) } ]",}
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < [ ] { < ( ) > } [ ] ( { }",) >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < ( ( ( < > ) ) ( { { } [ { } ] [ ] < ( ) > } ) )",>
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( [ [ [ { } ] ] { < [ < [ { } ] > ] > }",] )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( { { } }",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < ( ( ( [ { } ] )",) ) >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < > ] [ [ < > ]",]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ ] ( [ [ { < { { ( < > [ ] ) } } < > > } ] ] { }",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < [ ] ( ) ( ( { { } } ) ) < { < > } > [ ] > ] < ( ) > ( ( ( ) ) ) ( < >",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ { < ( ) > }",]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < [ ( ( ( ) < ( ) > ( { { } } [ [ [ < ( [ ] ) ( ) > ] ] ] { { { { { { } } } { { } { < [ [ ] ] > } } { } } } ) ) ] >",]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < ( ( [ < > { [ { ( ) } ] < { < { } > [ ( < > ) ] } > } [ < > ] ] ) { { ( { ( ( [ ( [ [ ] ) ] < { } > ) ) { { ( [ [ ] ] ) } [ ( ) ] { { [ ] } } } } ) } ( { } ) }",) >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ ] { ( ( < { ( ( ( { < > ( ) } ) ) [ { } ] { { ( ) } } ) } < > >",) ) }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < { < > } { (",) } >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ [ < < { } >",> ] ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < ( ( )",) >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( ( ) ) [ { ( < > ) }",]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < < > > < ( < < < [ [ [ [ [ ] ] ] ] > > > ) [ < < [ ] > > ] { [ < > ] < > [ ( ) ] } { [ ]",} > ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { ( < [ < > ]",> ) }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { ( [ ] )",}
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { ( < > ) } ( ( [ ] ) < [ ( [ [ ] ] [ { } ] { } [ < { [ ] } > ] ( ) ) ]",> )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < { < [ [ [ ( { } ) ] ]",> } >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { ( [ [ ] ( ) ]",) }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < { [ ] } >",]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( ( < >",) )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < < { ( < ( ) > ) }",> >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ [ < [ [ ] ] > ] ] { } { ( { ( ( ) ) ( ) { { [ [ ( { < { [ { [ ( < ( ( < < < [ ( ) ] [ ] > > > ) ) > < [ < { < ( ) > } > ] > ) ] } ] } > ( ( ) ) } ) [ ( ) ] ] ( < > ) ] } } } ) } [",]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { { } ( ( ) )",}
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < [ { { < ( ) > { < { } > ( < ( ) > { < [ ( { { ( < [ ] > ) } } { ( ( [ [ { } [ ] ] ] ) ) } ) ] > } ) } }",} ] >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( < [ ( )",] > )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < [ ( [ < > ] { < > } [ [ ] ] ) ]",> ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < ( ( [ ( [ ] ) ] ) )",>
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < [ ]",>
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ { ( { } ) } < < ( ) { { < [ { [ ( ) ] } ] > } } > >",]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( ( { }",) )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ [ [ [ < { ( ) } ( ) > { ( ) } ] { ( ) }",] ] ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { } < { } < > (",) >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( ( [ < < > [ < { } > ] { < [ ] > ( ( [ [ { < > } ] ) ) ) ( < < > > ) } > ]",) )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { < { } > { (",) } }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( [ [ { < > { } { } < < < < { { } > > ( < ( ( ) ) [ ( [ ] ) ] > ) > > { } } [ < < > > ] < ( ) > ] ]",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { < <",> > }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { { { } }",}
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < { } [ [ ( ( < { < { [ ] } > } > ) )",] ] >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < { ( ( )",) } >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ ( < { [ ( ) ] } >",) ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( ( { < { < { < > } > } > } ) ( ) ( { [ ( < ( < < { ( { < > } ) } > > ) > ) { ( { < ( { [ ] } ( ) ) > } < { < { { ( ) } } } > { < [ { ( ) } ] > } } > ) } [ [ ( ) ] ] ]",} ) )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ ] < { < { [ ( ) ] } > }",>
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < [ ] > ] [ { [ ] }",]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( < > ( [ ( )",] ) )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( < { ( ) { } } ( < > ) >",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < < ( < >",) > >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { { } ( ( < > )",) }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( < { < { } > { { ( [ ( { } ) ( ( [ [ ( { [ { } ] } ) ] ) ] ) ) [ < [ [ [ [ [ [ < > ] [ { [ [ { ( ( < [ ] > ) [ ( [ ] ) ] < { [ ] } > ) } ] ] } ] { < ( < > ) > } ] ] ] ] > ] ] ) } } } >",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( < < < >",> > )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < < [ ( ) ] >",>
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < > {",}
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < ( [ [ [ [ [ ( ) ] ] { } ] ] )",>
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < [ < > ]",>
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { [ [ [ [ [ ( ) ] ] ] ]",}
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { < { ( { [ ] } ) } > { } ( [ { { { ( [ < > ] ) } } } ] ) { { ( { } ) } }",}
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( ( < [ { { } } ] > { } ) ( < > ) [ ( < > ) ] <",> )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < < { } > < > > ( )",]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < ( < < > [ ] ( ) >",) > ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { [ < [ { < ( ) > } ] >",] }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ { < > < [ ] > [ < { } > ] [ ( { } ) ] [ ] [ ( ) ] ( ) < { { < { { { { { ( { } ) } ( { < > } ) } } } } > } }",> } ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ [ < [ ( [ < [ ] > ] ) ] > ] ( { }",) ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( [ ( )",] )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { ( { { < { < > } > } < { } > < < < [ < [ ] > ] > > >",} ) }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { [ < [ < { < { } > } > ( ( < { [ ] } > { { } } ) { } ) ] > ]",}
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( ( < { [ [ { [ [ [ ( [ < < > > ( ( [ ( ) ( { ( < [ ] > ) } ) ] ) ] ) ] ( ) ] } { [ [ ] ] } ] ] } > [ { < > } ]",) )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { { [ { < { } > } ( ) ]",} }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < [ ] > ( ( ( { { { { ( ( { { } } ) ) } ( { } ) } } { { { [ { ( ) } ( ) ( ( { [ < < > > ] < < > > } ) ) ] ( { } { } ) } } } )",) )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { < [ < ( < [ ] > ) < > < { } > { < > { } { { < [ < < { } [ { } ] < > > > ] < > > } < [ [ ] ] > } } > ] [ ( ) ] > } [ { ( < ( ( ( [ { } ] ) ) ) > ) } ] [ < ( ) ( ( { ( ) [ { { ( { } ) } } ] } ) ) >",]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( < [ < ( ) > [ { [ { ( ) } ] } ] ] > [ { } ] ( < { < [ { } ] > } > ) ) ( ( < ( ) > [ ] [ < { ( ) } > ] [ { } ] [",] ) )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( { } < > { < { ( < > ) } >",} )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < < [ ] > ( < > ) <",> >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < [ { { [ { [ { ( ( ) ) } ] } ( < < ( < > ) > { } [ [ [ ( < { } > ) ] ] ] { } > ) ( { } ) { } ] }",} ] >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < [ ( [ ( ) [ < [ < > ] < > [ ] > ] < < ( ) ( ) > < { } > > [ < > ] ]",) ] >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < [ { { < > [ ( ) ] ( ( ) ) } } ] > ] { { { ( < > )",} } }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( < < > ( [ < { { { } } ( ) > ] ) [ ( ) ] [ ] [ { } ] >",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < { ( { } ) < > }",>
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { < [ ]",> }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( { } ) < { < { } >",} >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < ( ( { < > } )",) >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( ( ( ) )",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ [ < < { [ ] ( [ [ ( [ [ [ { [ ] } ] ] ) ( ) ] ] ) ( ) [ ] < [ ( ( ( ) ) ) ] < < < > [ ( ) ] > [ ] > > [ < > ] } > >",] ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { { { < { } < ( ( < > ) ) > > } } { [ [ { } ] ] [ ] < < { } > [ ( ) { ( { } ) } ] > ( [ < [ ( ( { } ( ) < > < [ < < { { { ( [ { } ] ) } } { } { } > > ] > ( ) ) ) < > ] > ] )",} }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ [ { { < ( ) > } } ]",]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { < ( [ ( ( [ < { ( { } ) } < < > > > ] ) ) ] ) >",}
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { { ( { [ [ { < [ ] > } ] ] } ) [ ( < { < > } > ) ]",} }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ [ < [ ] > ] ] <",>
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < > [ [ < [ ] > ]",] ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( ( { < > ( ) [ { < ( < > < ( ( ) ( [ { } ] ) ) > { { } { ( ) } } ) [ ] > } ] { { } } }",) )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( ( ( [ < [ < [ ( [ { < ( < ( ( ) ) { } [ ] > ) > } ] ) { < > } ] [ < [ { ( < < { { [ < { [ [ < > [ ] ] ] } > ] { { } } } } > > ) } ] > { < > { } } ] > ( [ ] ) ] > ] ) ( )",) )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < < { } >",>
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( < >",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( { ( )",} )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( ( ( ( [ [ < [ { { [ ] } } ] > ] ] ( ) ) )",) )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < < ( ( [ ] )",) > >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < ( { } )",>
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < < < { < < > > } > < < { < ( < > ) < > [ [ [ < ( ( ) ) > [ ] [ ] ] ] ] < ( ) > ( ) [ ( [ [ ] ] ) ] > } { } { < [ < { ( { } ) } > ] > } { { } } > >",> >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < { [ ] }",>
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( [ { < ( [ ] < > ) > } ]",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( { < [ < > ] > }",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ ( [ ( [ < ( ) > [ < { } { [ ] } [ ] [ ] > { ( < { < > } > ) } ] ] ) ] )",]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { < ( [ ] ) >",}
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < { < ( )",> } >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( < ( ) ( < [ ] > ( ) < [ [ { } { < > } < > ] ] > ) [ ] > [ ( < { [ ] } [ ] ( { [ < > ] < < > > ( ( < { } > ) ) } ) [ [ [ < < < ( ( ) ) > > > ] < < { [ ] } > > ( [ < > ] ) ] ] > ) ] < >",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( ( [ [ ] ]",) )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { ( ( ) ) { < > { ( [ [ { } ] [ ( ) ] ] ) } [ { { { ( < [ ] > ) } { < > } } }",] } }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: <(<>) {<{{(() {{<> {}} [<>] ()}} (())) <[{{(<>))}} [{<{}>}] ()]> {[]}> []}> ([]) [((())",> ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ ( { } )",]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( { < { ( ) } > } { ( { [ ] } ) }",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { [ [ ] [ ]",] }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( < [ < ( [ ( ) ] < > < ( { } ) > ) < [ ] > > ] ( ) < [ < > ] >",> )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( < < > > [ [ [ { { < { } ( { } ) > } } < { { { } } } < > > ] ] ( )",] )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( { ( ( { } ) ) } ( ) ) < { (",) } >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < ( { [ { } ] } [ ] [ ] )",>
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { { [ ( [ { ( { ( [ ( [ ] ) { ( < < [ ] > [ [ ] ] > } ] ) [ ] } ) } ] ) ] } { < [ ] > } (",) }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { [ < [ ] > ] } { ( ) [ < > ] [ [ [ ] ]",] }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < [ { ( < ( ( [ < < { } > < < [ ( { < < > > } ) ] > > > ] { } ) ) > ) } ] [ < < { } > ( < < ( ) < ( [ ] ) > > ( ( ) ) > ) > ] > ] < < {",} > >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < [ ]",> ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { { [ < > ] } < [ ( [ { } ] ) ] > < [ < > { } ] < ( [ ] ) > <",> > }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { ( { [ ( ) ] } { { [ ] } } { } < > ) } [ < [ ( ) ]",> ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { ( < { < ( ) > } >",) }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( { < { ( ( { } ) ( ) ) } { } < { } > < > > } { } ( { ( { { } } ) [ ( ) ] } ) ) [ ( [ ]",) ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < ( )",>
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ { < ( )",> } ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( ( [ < [ ] > { { [ [ ] ] } } ]",) )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { < ( ) > { < > } ( < > ) < ( ) > [ ] < < < < ( ( ) ) < ( ) > > > > > {",} }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < < > ( [ ]",) >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < ( < > ) > { } < { [ < > ]",} >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < [ ] > [",] ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( < { < ( ( < { } { < < { { { { } } } > < < < > [ ] > { } ( < { { ( [ ( ) ] ) } } > ) > > } > ) ) > } >",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( ( ( [ { } ] )",) )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ { { } } ] ( < { < [ ( ( ) ) ] > } >",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { < ( < < < [ < [ [ ] ( ( ) ) ] > < > ] > > > )",> }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { ( [ ] ) } [ ] ( { < > } ( { } ( { { } } ) ) ( [ ] ) ( ) ( < ( { { ( < { [ ( ) ] } > ) } } } [ < [ ( [ { } ] [ < > < < > > ] ) ] > ] { < { } > } < > ) > )",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( [ < < > [ [ < > ] ] > ] ( < < < ( [ [ ] ] ) [ ( ( [ { { } } ] ) ) ] > >",> ) )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( ) ( (",) )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { < [ ] > ( { [ ] } <",> ) }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( < ( ) >",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { ( ( ) ( { ( < ( ) > ) }",) ) }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < [ [ < > ] ] < ( ) > [ { } ] < [ [ ] ] > ( ) < { < [ ] < < [ [ { [ ] } ] ] > > ( [ ( ( ( ) ) ] ) > } > [ { { < > } } ] > < ( < { } { [ { [ ] } ] } >",) > ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( < < < ( < < > > ) > > >",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < < >",>
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( { ( ) { [ ] { ( ( { < > } ) ) ( < < > < > > < ( ( ) ) > ) } < ( < < < { } > > > ) > } }",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( ) ( < < { }",> > )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( < ( [ ] ) > {",} )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( < { } [ ] >",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { < > } ( ) [ ] {",}
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < [ { { [ [ [ [ < ( < [ ] { [ ( [ ] ) ] [ ] < > } > ) > ] ( [ ] ) ] ] } }",] >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < { [ ] } > ( ) < [ [ { [ [ [ ] ] } ] ] ( ) [ < ( [ { } ] ) > ( ( ) ) ]",>
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < { < { [ < { ( [ ] ) } > { ( { } ) } ( ) ] } > } [ < < > > ] { } [ ] < { }",> >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( { [ [ { } ] ] }",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( ( < { [ { } ] } > ) ) < {",} >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < < < [ ( ) ] >",> >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < [ ] { { } { < ( { } ) > } } > ] ( {",} )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { < < > ( [ [ { ( ( [ ] < > ) ) } ] { [ [ ] { } { [ { < > } ] } ( { { { { } } } } ) ] } ] ) (",) > }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { ( (",) ) }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ ( ( { < ( { } ) > } )",) ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( [ < < { } > > ]",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( ) { <",> }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { ( [ { ( < [ { ( ) { } } ] > ) < > } ]",) }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { < < { ( < > ) }",> > }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { { [ [ ] { { < > [ ( ) ( [ ] ) [ ] { < > } ] } } [ { [ ] } ] { ( ) }",] } }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { {",} }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < ( [ { ( < > ) } ] ) > { ( [",] ) }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ { [ { ( < < < < > { } > { [ { } ] } > > ) } ] [ ] } ] [ < { { { } } [ [ ( ( ) ) ] ] > ] [ ( ( [ ] )",) ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < { < ( ) ( ( < > < ( ( < < > > ) ) { ( ) } > ) ) { { } }",> } >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ { [ < [ < { } > ] [ ] >",] } ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < < [ ( < [ ( { [ ( ) ] [ ( ( { [ ] } ) ) ] } ) ] > ) ] <",> > >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < { { } } ( < [ ] [ { } ] > ) ( { { } { { ( ) } } } } ) { < { { [ ] } [ ( ) ] } ( < { [ < > ] } > ) < ( [ ] { ( < < [ ] > > ) [ { [ [ ( ( ) ) ] ] } ] } { } ) > ( { { [ [ ( ) ] ] } } )",> } >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ ( ) { [ ] } [ ] [ ] { < { ( ( { } ) ) { [ { } ] } } > [ ] }",]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < ( { ( < < > > )",} ) >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < ( < >",) >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ ] { ( { < > } ) } [ ( ) ] { } [ { { ( < > ) } <",> } ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ { { ( ) }",} ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { [ { [ ] } ] } [ [ { { } } [ < >",] ] ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ { ( < [ [ ] ] > )",} ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { ( ( [ ] ) )",}
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( < < > > < > [ ] [",] )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < [ ( { { ( ( ( ) ) } } ) [ ( [ { } ] ) ] < { { < < < > [ < [ < ( [ ( { ( ( < < < < > > > { ( { { < ( ) > ( ) } } ) } > { } ) ) } ) ] ) > ] > ] > < { } > > } ( ) < { ( ) } > } > ] [ < ( ) > ]",>
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { [ { { { { } } }",] }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ [ ( { { ( { } ) } < < ( [ [ { } < [ { < [ { ( ) ( [ { } ] ) } ] < > > } ] ( < { ( [ ] ) } > ) > ] ( [ < ( ) > ] ) ] ) > > }",) ] ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ (",) ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( {",} )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ ( < [ [ { [ < [ < ( [ ] ) > ] < > > ( < [ < [ < ( [ ( [ ] ) < ( ) > ] [ ( { ( ) } [ < { { { ( [ ] ) } } } > ] ) ] ) > ] > ] > ) ] } ] ] > ) ( { { { } } }",) ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { [ [ < > ] (",) ] }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < ( ) ( { { [ ] } }",) >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < < ( [ ] ) > < >",>
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ([",] )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < [ [ ( ) ( ( { < { < { { { } } > } > } ) ) ] ] > ( ) { ( ) }",]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( < > [ { [ [ ( [ ] ) [ < ( < > ) { [ ( { ( [ ( ( < ( ( < [ ] { < > } > [ ] ) ) > ) [ { } ] ) ] ) } ) ] } > ] ] ] } [ ] ] ) < [",] >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < ( {",} ) >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ ( [",] ) ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { { < { < > } > } [ ( < < > > ) [ { < ( ) > } ] ] [ ] } < ( { [ < [ { [ ( ) ] } ] > < { ( [ [ [ { } < > { ( < { [ ] } > ( ) } ] ] ] ) } > ] } )",>
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( [ [ [ ( { ( ( < [ { < > } ] > { { [ ] } } ) ) } ( [ [ < > ] ] ) ) ] ] ] ) ( < > < [ ( ) ] > (",) )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( ) ( [ [ ] ] ) ( { [ { < { ( ) < [ [ < > { [ ( < ( < [ { < < ( [ ( ) ] [ ( < ( { [ ] } ) > ) ] [ < > ] ) > [ { ( < > ) } ] > } ] > ) > ) ] } ] ] > { } [ [ ] ] { } } > ( ( < > ) ) } ] }",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( ( { ( ( { } ) ) ( ( [ ] ) ) } )",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < < > >",]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < [ [ { } ] ]",>
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( ) [ ( [ < { { ( { } ) } } >",] ) ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < > ] [ { < { } > { [ ( [ ( ) ] ) ]",} } ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( < ( [ < < [ ] > > ] )",> )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ ] { [ [ [ < { { { { } } } > ] ] < [ { }",] > }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( [ ( { } ) { < ( ( [ ] ) ) >",} ] )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( { { { { { < < ( { ( { { < < [ < [ [ ] ] > ] [ ] > [ [ ] ] > ( < [ { < > < [ ] > } ] > ) } } ) } ) > > } } }",} } )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < ( [ ] ) > ] { [ { }",] }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( { [ { }",] } )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( { [ { [ ] { [ [ ] ] } { ( ) } } { [ [ ( [ ] ) ] ] } ] } { < ( ) { [ [ ( ) { [ { { } } ] < > { < ( < { ( < ( [ ] ) > ) } > ) { [ ( < ( ) > ) ] } [ ] { } > } ( ) } ] [ ( ( { < > } ) ) ] ] } >",} )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < ( ( ( < > < [ [ ] ] > ) { } )",) >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { [ { { { { < > } }",} ] }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { { { < > } } < > < { { ( ( ) } } > { } } { < ( { [ < > ] [ ( ) < ( ) > { < ( ( ( ( ) ) ) > [ ] } ] < > ( < { } > ) }",) > }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < > { < [ ] >",} ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ [ <",> ] ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( { }",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { [ [ < ( < { } > ) > ] ] [ [ ] ]",}
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < {",} >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { < > } [ ( { ( { [ < > ] } ) ( ) } ) ] { [ < > ] } [ [ ( [ ]",) ] ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < < { { { { < [ ( < > { ( ) } ) ] > } } }",> >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { < < ( )",> > }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ ( ) <",> ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ { ( { [ < ( < [ ( ) ] > ) > ] } ) } ] [ ] [ ( { ( ) } ) ] < { ( ( ( ( ( < > ) ) ) ) ) [ < [ ( < > ) ] > [ [ ] ( ( { } { [ { < [ ] > } ] } < { } > < [ < > ] > [ ] ) ) ] ] } > { [ { ( )",} ] }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < { < [ ( < > ) ( ( [ [ ] ] ) ) ( ( { } ) ) { [ ] } < ( < > ) > ] > }",> ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( { < { { [ ] } < > [ ] } [ [ [ < [ [ ] ] > ] ] ] > } [ ] { { { { [ { } ] } ( < [ [ [ ] ] ] > ) < < ( { ( [ ] ) [ { { } } ] { [ ] } } ) [ { [ [ { ( { } ) [ ( ) { } ] { } } ] ] < > } ] ] > > }",} } )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < (",) >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { [ < { < ( ( ) ) > } >",] }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ ] [ ( [ [ ( ) ] ] ) < < [ ] > > < < >",> ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( { } ) { ( [ { ( ) } ] ( [ ] ) )",}
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < > { { { } } { } } ] < { } [ { [ ] }",] >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { < > { { ( { } ) } { { ( ( ) ) } } }",}
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { { ( [ ] ) { ( )",} } }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < ( < { [ { } < ( { ( < < < { [ ( [ ( [ { { < [ { } < ( ) > ] > } } ] ) ] ) ] } > < > > ( ( < { } > ) ) > ) } ) > ] } > )",>
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < { [ < > ] ( ( ( ( { { } } ) ) )",) } >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < < [ [ ] ( ) { < > ( [ { } { < > } { } ] ) } [ [ [ ( [ ( ) [ [ { < [ { { { } } < { { < ( ) > } } > ] > } ] ] ] ) ] < < [ [ [ ( < < ( ) > > ) ] ] > > [ ] ] ] ] < ( [ ] ) > { ( ( < { } > ) ) } > >",]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < { [ < > ]",} >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < [ { ( ( < ( ( ) ) > ) ) } ]",>
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < ( ) < > > { < > } { ( ) ( < ( ) > ) } < < { [ ] }",> >
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ ] [ { } ] ( ( )",)
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ ] < { < > } > { (",) }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < > < { { { [ ( ) ] } } } > ( { [ { ( [ ] { } ) } ]",} )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { ( <",> ) }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { ( { { { < ( < ( [ < < > > ] < > ) > ) > } [ ] }",} ) }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: { < { { { } } > } < { } > { < { { [ < [ [ ] ] > ] } } > } ( ) { { [ { [ { } ] } ] ( [ { } ] )",} }
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: ( ( < < < ( ( ) ) ( [ ] ) > > { [ ] }",> ) )
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: [ < { { } }",> ]
+"Completa la sequenza di Input assicurandoti che le parentesi siano tutte chiuse correttamente. Input: < < < > >",>
